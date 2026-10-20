@@ -7,6 +7,7 @@ created_at: "2026-10-18"
 
 # Oct 18: Mapped out ideas
 
-Spent the day mapping out ideas of what the project should be and decided on a fall sensor with radar. Looked at placement of stuff (radar, battery) and saw some past projects which had similar ideas.
+Spent the day mapping out ideas of what the project should be and decided on a fall sensor with radar. Looked at placement of stuff (radar, battery) and saw some past projects which had similar ideas. 
+https://www.youtube.com/watch?v=R_Ueeu36qMc
 
 **Total time spent: 1 hours**
