@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=R_Ueeu36qMc set up github and forge projects and
 
 
 
-**Total time spent: 1 hours**
+**Total time spent: 0.5 hours**
 
 # Oct 19: Set up jounral.md and got first draft
 
@@ -21,6 +21,6 @@ I set up the journal MD and I got the first chart ready. Basically, how I want t
 I also got to thinking if I would need a PCB for this. All the projects I did before, I really had a PCB just to solder parts to and not need to do any wiring or anything. But now I'm thinking that probably my microcontroller could probably, because it's just like four things, right? Four things, which includes a battery. So basically three things at most. So I don't think I'll need a lot of pinouts. So I'm just going to see if I can probably jerry-rig it maybe. I don't know.
 
 
-**Total time spent: 1.5 hours**
+**Total time spent: 1 hours**
 
 
